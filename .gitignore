@@ -1,0 +1,28 @@
+# Ignore zip backups
+*.zip
+
+# Ignore Python cache and build folders
+__pycache__/
+*.pyc
+
+# Ignore PowerShell generated files
+*.ps1~*
+
+# Ignore build folders
+build/
+dist/
+*.spec
+
+# Ignore environment files
+.env
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore VS Code workspace settings (optional)
+.vscode/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
