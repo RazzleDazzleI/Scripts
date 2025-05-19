@@ -1,2 +1,4 @@
 # ?? Web Tools
-Static HTML/CSS files or browser-based helpers.
+
+## Scripts in this folder:
+- $(nebula.html.Name)
