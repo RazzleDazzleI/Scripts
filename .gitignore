@@ -1,28 +1,18 @@
-# Ignore zip backups
+# Ignore backup artifacts
 *.zip
 
-# Ignore Python cache and build folders
+# Ignore automation script itself
+organize_scripts.ps1
+
+# Ignore Google Drive temp folders
+.tmp.driveupload/
+.tmp.drivedownload/
+
+# Ignore folders not needed in repo
+archive/
+misc/
+
+# Ignore Python and PowerShell garbage
 __pycache__/
 *.pyc
-
-# Ignore PowerShell generated files
-*.ps1~*
-
-# Ignore build folders
-build/
-dist/
-*.spec
-
-# Ignore environment files
-.env
-
-# Ignore logs and temp files
-*.log
-*.tmp
-
-# Ignore VS Code workspace settings (optional)
-.vscode/
-
-# Ignore system files
-Thumbs.db
-.DS_Store
+*.ps1~
