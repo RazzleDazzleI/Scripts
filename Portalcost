@@ -1,0 +1,9 @@
+<label for="helpdesk_ticket_product_id" class=" form-label"></label>
+
+<div class="choices form-select" data-type="select-one" tabindex="0" role="listbox" aria-haspopup="true" aria-expanded="false"><div class="choices__inner"><select class="form-control choices choices__input" id="helpdesk_ticket_product_id" name="helpdesk_ticket[product_id]" data-placeholder="" hidden="" tabindex="-1" data-choice="active"><option value="153000122750" data-custom-properties="{&quot;id&quot;: &quot;153000122750&quot;}">
+  DRM
+</option></select><div class="choices__list choices__list--single"><div class="choices__item choices__item--selectable" data-item="" data-id="1" data-value="153000122750" data-custom-properties="{&quot;id&quot;: &quot;153000122750&quot;}" aria-selected="true">
+  DRM
+</div></div></div><div class="choices__list choices__list--dropdown" aria-expanded="false"><div class="choices__list" role="listbox"><div id="choices--helpdesk_ticket_product_id-item-choice-1" class="choices__item choices__item--choice is-selected choices__item--selectable is-highlighted" role="option" data-choice="" data-id="1" data-value="153000122750" data-select-text="Press to select" data-choice-selectable="" aria-selected="true">
+  DRM
+</div></div></div></div>
